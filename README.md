@@ -1,2 +1,2 @@
 # Aravindhan_baskaran_Portfolio
-Portfolio repository including my Projects, resume, and introduction.
+Portfolio repository including my projects, resume, and introduction.
